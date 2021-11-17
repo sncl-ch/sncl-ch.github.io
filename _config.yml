@@ -6,3 +6,6 @@ description: > # ignore newlines
 # logo: /assets/img/logo.png
 
 theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-redirect-from
