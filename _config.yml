@@ -1,8 +1,8 @@
 # Site settings
-title: El Manouche
-email: me@elmanou.ch
+title: SNCL - Ski Nautique Club Lausanne
+email: admin@sncl.ch
 description: > # ignore newlines
-  Redirection to main website
+  Presentation webiste of the SNCL
 # logo: /assets/img/logo.png
 
 theme: jekyll-theme-minimal
