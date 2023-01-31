@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://sarah.dionne.ch"
+redirect_to: "https://elmanou.ch"
 ---
